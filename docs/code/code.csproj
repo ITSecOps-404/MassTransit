@@ -14,7 +14,7 @@
     <PackageReference Include="MassTransit.EventHub" Version="8.0.7" />
     <PackageReference Include="MassTransit.ActiveMQ" Version="8.0.7" />
     <PackageReference Include="MassTransit.AmazonSQS" Version="8.0.7" />
-    <PackageReference Include="MassTransit.Azure.ServiceBus.Core" Version="8.0.7" />
+    <PackageReference Include="MassTransit.Azure.ServiceBus.Core" Version="8.2.3" />
     <PackageReference Include="MassTransit.MongoDb" Version="8.0.7" />
     <PackageReference Include="MassTransit.Azure.Cosmos.Table" Version="8.0.7" />
     <PackageReference Include="MassTransit.Redis" Version="8.0.7" />
